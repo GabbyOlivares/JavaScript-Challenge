@@ -45,7 +45,7 @@ Multiple filter selection
 * [UFO Sightings Data](StarterCode/static/js/data.js)
 
 - - -
-####**ASSESSMENT**
+**ASSESSMENT**
 
 The final product will be assessed on the following metrics:
 
