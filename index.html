@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>UFO sighting!!</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="static/css/style.css" />
+    <style>
+      body {
+        background-color: black;
+      }
+
+      .jumbotron {
+        background: #000000 url("static/images/sistemasolar.jpg") no-repeat bottom left;
+        background-size: 150% 150%;
+        overflow: auto;
+        width: 100%;
+        height: 100%;
+        margin: 50;
+        padding: 70;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="jumbotron" style="text-align:center">
+        <h1>Select your favorite UFO sight level research!</h1>
+        <h2>Level 1:UFO sights by date</h2>
+        <h2>Level 2: UFO sights by multiple choice</h2>
+        <div class="row">
+          <div class="col-md-offset-4 col-md-4"></div>
+        </div>
+        <div class="row">
+          <div class="col-md-offset-4 col-md-4">
+            <button type="button" class="btn btn-default btn-lg">
+              <span class="glyphicon glyphicon-circle-arrow-up"></span> UFO Level 1
+              <p></p>
+              <a href="UFOL1\index.html" class="btn btn-primary">Go Level 1</a>
+            </button>
+            <button type="button" class="btn btn-default btn-lg">
+              <span class="glyphicon glyphicon-circle-arrow-down"></span> UFO Level 2
+              <p></p>
+              <a href="UFOL2\index.html" class="btn btn-primary">Go Level 2</a>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="stars"></div>
+    <div id="stars2"></div>
+    <div id="stars3"></div>
+    <script src="static/js/app.js"></script>
+  </body>
+</html>
