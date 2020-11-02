@@ -21,7 +21,7 @@ Create a web page with JavaScript, HTML5, CSS3 and D3.js to create tables dynami
 
 **Challenge completed!**
 Date filter selection
-![UFOL1Output](./Output/UFOL1fulltable-filterresetTablebutton.png)
+![UFOL1Output](JavaScript-Challenge/Output/UFOL1fulltable-filterresetTablebutton.png)
 
 ### Level 2: Multiple Search Categories (Optional)
 
