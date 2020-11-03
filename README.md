@@ -21,7 +21,7 @@ Create a web page with JavaScript, HTML5, CSS3 and D3.js to create tables dynami
 
 **Challenge completed!**
 Date filter selection
-![UFOL1Output](Output/UFOL1fulltable-filterresetTablebutton.png)
+![UFOL1Output](Output/UFO-L1fulltable-filterresetTablebutton.png)
 
 ### Level 2: Multiple Search Categories (Optional)
 
@@ -37,7 +37,7 @@ Date filter selection
 
 **Challenge completed!**
 Multiple filter selection
-![UFOL2Output](Output/UFOL2filtermultiple.png)
+![UFOL2Output](Output/UFO-L2filtermultiple.png)
 - - -
 
 ### Dataset
@@ -45,7 +45,7 @@ Multiple filter selection
 * [UFO Sightings Data](StarterCode/static/js/data.js)
 
 - - -
-####**ASSESSMENT**
+**ASSESSMENT**
 
 The final product will be assessed on the following metrics:
 
