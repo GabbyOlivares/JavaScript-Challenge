@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-  background: #000000 url("/static/images/sistemasolar.jpg") no-repeat bottom left;
+  background: #000000 url("../images/sistemasolar.jpg") no-repeat bottom left;
   background-size: 150% 150%;
   overflow: auto;
   width: 100%;
