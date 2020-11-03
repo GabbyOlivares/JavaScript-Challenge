@@ -13,7 +13,7 @@ body {
 }
 
 
-h1 {
+div.container div.jumbotron h1 {
   color: white
 }
 
